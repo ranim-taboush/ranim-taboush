@@ -24,7 +24,7 @@ export default function Introduction() {
         max-md:flex-col-reverse md:gap-4 gap-12  bg-dark rounded-lg shadow-lg`}
         >
           <h1 className="flex flex-col items-center justify-between md:text-4xl text-3xl font-bold md:pb-2 pb-4 text-neonBlue">
-            <span className="tracking-[.2em]">Hello, I'm </span>
+            <span className="tracking-[.2em]">Hello, I&apos;m </span>
             <span className="transition-all duration-300 md:hover:translate-y-4 hover:translate-y-0 translate-y-2 hover:text-neonGreen">
               <span className="text-neonGreen">Ranim</span> Yassin
             </span>
